@@ -1,6 +1,6 @@
 # Neural Network Classification
 Classification objects on the aerial photos using neural networks  
-Scheme of neural network please look at the file "Description.png".  
+Scheme of neural network please look at the file ["Description.png"](https://github.com/trojanskehesten/neural-network-classification/blob/master/Description.png).  
   
 There are 2 models:  
   1. softmax model with 1 layer (Easy_NN.py)  
