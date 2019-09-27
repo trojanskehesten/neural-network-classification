@@ -11,3 +11,4 @@ Dataset for training was created by me using aerial orthophoto from unmanned aer
 The dataset is possible to download [here](https://yadi.sk/d/7Q5tMVM83YwSw7).  
   
 The training is very hard for calculation. For the task please use powerfull computer or [google cloud](https://cloud.google.com/).
+![DescriptionOfNeuralNetwork](https://github.com/trojanskehesten/neural-network-classification/blob/master/Description.png)
